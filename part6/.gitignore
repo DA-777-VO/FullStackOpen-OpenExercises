@@ -8,9 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-.env
+dist
+dist-ssr
 *.local
-login.rest
 
 # Editor directories and files
 .vscode/*
@@ -22,7 +22,3 @@ login.rest
 *.njsproj
 *.sln
 *.sw?
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/

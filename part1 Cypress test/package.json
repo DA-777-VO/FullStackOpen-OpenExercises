@@ -1,0 +1,17 @@
+{
+  "name": "part1-cypress-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "lint:fix": " eslint --fix ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.15.2",
+    "eslint-plugin-cypress": "^4.1.0"
+  }
+}
